@@ -1,0 +1,66 @@
+{
+  "movies": [
+    {
+      "title": "The Dark Knight Rises",
+      "body": "Batman is a terrible super hero",
+      "image": "thedarkknight.jpg",
+      "author": "Christopher Nolan",
+      "id": 5
+    },
+    {
+      "title": "Horrible Bosses",
+      "body": "Cocaine, Fun and Death",
+      "image": "horriblebosses.jpg",
+      "author": "Seth Gordon",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "comment": "aerh",
+      "rating": "hedhnr",
+      "id": 1
+    },
+    {
+      "comment": "rsherd",
+      "rating": "erhedhr",
+      "id": 2
+    },
+    {
+      "comment": "eabbreb",
+      "rating": "edbebr",
+      "commentId": "5",
+      "id": 4
+    },
+    {
+      "comment": "This movie sucks",
+      "rating": "4",
+      "commentId": "5",
+      "id": 5
+    },
+    {
+      "comment": "werhwe5jejeje",
+      "rating": "5",
+      "commentId": "6",
+      "id": 6
+    },
+    {
+      "comment": "wsher",
+      "rating": "eahh",
+      "commentId": "5",
+      "id": 7
+    },
+    {
+      "comment": "This is a comment",
+      "rating": "7",
+      "commentId": "7",
+      "id": 8
+    },
+    {
+      "comment": "Wow, so good! ",
+      "rating": "5 Stars",
+      "commentId": "7",
+      "id": 9
+    }
+  ]
+}
